@@ -1,0 +1,5 @@
+<svg id="Icon_ionic-ios-arrow-dropright" data-name="Icon ionic-ios-arrow-dropright" xmlns="http://www.w3.org/2000/svg" width="76" height="76" viewBox="0 0 76 76">
+  <circle id="Ellipse_1" data-name="Ellipse 1" cx="38" cy="38" r="38"/>
+  <path id="Path_1" data-name="Path 1" d="M37.859,11.01a3.54,3.54,0,0,0-4.987,0L15.442,28.494a3.522,3.522,0,0,0-.11,4.86L32.506,50.581a3.52,3.52,0,1,0,4.988-4.969L22.9,30.8,37.859,15.979A3.485,3.485,0,0,0,37.859,11.01Z" transform="translate(8.417 7.186)" fill="#fff"/>
+  <path id="Path_2" data-name="Path 2" d="M79.375,41.375a38,38,0,1,1-38-38A37.994,37.994,0,0,1,79.375,41.375Zm-5.846,0A32.141,32.141,0,0,0,18.648,18.648,32.141,32.141,0,1,0,64.1,64.1,31.877,31.877,0,0,0,73.529,41.375Z" transform="translate(-3.375 -3.375)" fill="#fff"/>
+</svg>
